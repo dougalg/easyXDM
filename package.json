@@ -1,0 +1,22 @@
+{
+  "name": "easyXDM",
+  "version": "2.4.19",
+  "description": "easy Cross-Domain Messaging",
+  "main": "\\",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dougalg/easyXDM"
+  },
+  "keywords": [
+    "Cross-Domain"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dougalg/easyXDM/issues"
+  },
+  "homepage": "https://github.com/dougalg/easyXDM"
+}
